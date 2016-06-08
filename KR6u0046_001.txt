@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:55:47.894450
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:04
 #+TITLE: 金有陀羅尼經
 #+PROPERTY: CBETA_ID T85n2910
 #+PROPERTY: ID KR6u0046
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 85, No. 2910
 #+PROPERTY: VOL 85
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6u0046_T_000-1455c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6u0046_T_001-1455c> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.2910¶
-
- 金有陀羅尼經¶
+No. 2910¶
+金有陀羅尼經¶
 ¶
 
 如是我聞。一時薄伽梵住如籬𥬕。與藥叉¶
