@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:55:47.894450
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:04
 #+TITLE: 金有陀羅尼經
 #+PROPERTY: CBETA_ID T85n2910
 #+PROPERTY: ID KR6u0046
